@@ -1,0 +1,7 @@
+train: C:\Users\Setup\Desktop\Sign_Detect\tarin
+val: C:\Users\Setup\Desktop\Sign_Detect\val
+
+nc: 4
+
+
+names: ["ABS", "Seatbelt_warning", "Engine_emissions", "Airbag_warning"]
